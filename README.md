@@ -1,7 +1,7 @@
 <h1 align="center">Oi, eu sou o Victor</h1>
 
 <h2>Ferramentas e tecnologias que eu utilizo:</h2>
-<div align="center">
+<div>
   <a href="https://nodejs.org/"><img height="32px" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
   <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img height="32px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
   <a href="https://www.typescriptlang.org/"><img height="32px" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
@@ -20,14 +20,21 @@
 </div>
 
 <h2>Ferramentas e tecnologias que eu estou aprendendo:</h2>
-<div align="center">
+<div>
   <a href="https://www.java.com/"><img height="32px" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a>
   <a href="https://angular.io/"><img height="32px" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"></a>
   <a href="https://www.djangoproject.com/"><img height="32px" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"></a>
   <a href="https://aws.amazon.com/"><img height="32px" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
-  
 </div>
 
+<h2>Onde me encontrar?</h2>
+
+<div>
+<a href="https://www.linkedin.com/in/victor-murilo-dev/"><img height="32px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:victor2706.vm@gmail.com"><img height="32px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+
+</div>
 
 <h2 align="left">Meus Stats</h2>
 <div align="center">
