@@ -1,5 +1,11 @@
 <h1 align="center">Oi, eu sou o Victor</h1>
 
+<h2>Sobre mim:</h2>
+<div>
+<p>Meu nome é Victor Henrique Murilo, sou um desenvolvedor web.</p>
+<p>Meus principais interesses são programar e ler mangas e novels.</p>
+</div>
+
 <h2>Ferramentas e tecnologias que eu utilizo:</h2>
 <div>
   <a href="https://nodejs.org/"><img height="32px" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
