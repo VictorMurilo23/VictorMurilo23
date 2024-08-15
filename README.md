@@ -9,13 +9,10 @@
 <h2>Ferramentas e tecnologias que eu utilizo:</h2>
 <div>
   <a href="https://nodejs.org/"><img height="32px" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
-  <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img height="32px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
   <a href="https://www.typescriptlang.org/"><img height="32px" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
-  <a href="https://www.python.org/"><img height="32px" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
   <a href="https://www.mysql.com/"><img height="32px" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
   <a href="https://www.mongodb.com/"><img height="32px" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
   <a href="https://swagger.io/"><img height="32px" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"></a>
-  <a href="https://react.dev/"><img height="32px" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
   <a href="https://expressjs.com/"><img height="32px" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"></a>
   <a href="https://jwt.io/"><img height="32px" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"></a>
   <a href="https://mochajs.org/"><img height="32px" src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white"></a>
@@ -23,13 +20,11 @@
   <a href="https://www.docker.com/"><img height="32px" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
   <a href="https://git-scm.com/"><img height="32px" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
   <a href="https://github.com/"><img height="32px" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.npmjs.com/"><img height="32px" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"></a>
 </div>
 
 <h2>Ferramentas e tecnologias que eu estou aprendendo:</h2>
 <div>
   <a href="https://www.java.com/"><img height="32px" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a>
-  <a href="https://angular.io/"><img height="32px" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"></a>
   <a href="https://aws.amazon.com/"><img height="32px" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
 </div>
 
