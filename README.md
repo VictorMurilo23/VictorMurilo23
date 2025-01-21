@@ -22,12 +22,6 @@
   <a href="https://github.com/"><img height="32px" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
-<h2>Ferramentas e tecnologias que eu estou aprendendo:</h2>
-<div>
-  <a href="https://www.java.com/"><img height="32px" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a>
-  <a href="https://aws.amazon.com/"><img height="32px" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
-</div>
-
 <h2>Onde me encontrar?</h2>
 
 <div>
